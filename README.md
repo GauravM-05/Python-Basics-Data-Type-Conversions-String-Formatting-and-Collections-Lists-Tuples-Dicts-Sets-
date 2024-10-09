@@ -40,7 +40,6 @@ pip install notebook
     
 ## Run
 
-## Python Basics: Calculator and Operators
 1. Open the terminal (or command prompt) and navigate to the project directory.
 
 2. Start Jupyter Notebook by running:
